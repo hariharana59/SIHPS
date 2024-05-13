@@ -16,6 +16,9 @@ The E-Waste Facility Locator aims to provide a platform for users to easily find
 
 ## Proposed Solution / Architecture Diagram
 
+![image](https://github.com/hariharana59/SIHPS/assets/144980130/c6764253-bb97-4a6c-b669-cc442495d16a)
+
+
 The solution involves creating a web or mobile application that allows users to enter their location or enable geolocation services to find the nearest e-waste recycling facilities. The application can also provide information such as the types of electronics accepted, operating hours, contact information, and any special instructions for recycling.
 
 
